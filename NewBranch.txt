@@ -1,0 +1,3 @@
+This is dummy file that is used to check the branch working at github.
+I am looking for how branch will merge with main branch at github.
+
