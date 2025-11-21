@@ -1,0 +1,7 @@
+X01 500 Credit
+04 100 Credit
+05 1200 Credit
+07 750 Credit
+09 650 Credit
+11 920 Credit
+13 1150 Credit
